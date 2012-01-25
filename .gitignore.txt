@@ -1,0 +1,4 @@
+/811Robot2012/build/
+/811Robot2012/j2meclasses/
+/811Robot2012/suite/
+/811Robot2012/nbproject/
